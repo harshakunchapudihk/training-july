@@ -1,2 +1,2 @@
 this is just a readme....
-the new ui released..
+the new ui released... 1.2
